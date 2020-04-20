@@ -1,1 +1,12 @@
 Sample File
+===============
+
+** This is just a sample file and it means absolutely nothing to the world ** 
+
+--------------------------------------------------------------------------------
+
+Please ignore everything on this file and do not overwrite anything on it 
+
+--------------------------------------------------------------------------------
+
+
